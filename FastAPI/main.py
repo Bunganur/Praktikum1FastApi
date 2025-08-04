@@ -21,6 +21,6 @@ def get_data():
     return data_mahasiswa
 
 
-# NIM   : 10122233
-# Nama  : Cikita Meydilvira
-# Kelas : P.Android3
+# NIM   : 10122200
+# Nama  : Bunga Nur Haliza
+# Kelas : PA3
